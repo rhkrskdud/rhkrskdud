@@ -37,7 +37,7 @@
 | ---------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- |
 |  **Simple PaintBoard**                 | C++ 기반의 Windows GDI를 활용한 간단한 그림판 구현                         | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/Simple_PaintBoard)      |
 |  **Server Client MineGame**            | Java Swing과 소켓 통신으로 구현한 2인용 지뢰찾기 게임                         | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/Server_Client_MineGame) |
-|  **MSG CTF Problem**                  | MSG 보안 동아리에서 사용된 CTF 문제 출제 및 구현                             | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/MSG_CTF_PROBLEM)        |
+|  **MSG CTF Problem**                  | Error-based SQL Injection 문제 출제                           | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/MSG_CTF_PROBLEM)        |
 |  **Team Project 1 - Subway Navigator** | 지하철 경로 탐색 기능을 갖춘 안드로이드 애플리케이션 개발                            | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/team_project1)          |
 |  **MineSweeper Hacked**                | `.jar` 구조 분석 및 Java GUI 리버싱을 통해 지뢰를 자동 표시하도록 수정한 보안 실습 프로젝트 | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/MineSweeper_Hacked)     |
 |  **알려지지 않은 악성 URL 탐지 솔루션**   | 다계층 엔진으로 악성 URL을 탐지하는 솔루션                                 | -                                                                     |
