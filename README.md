@@ -8,13 +8,28 @@
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rhkrskdud&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/rhkrskdud"
-    width="600"
-    height="300"
-  />
-</a>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.gitanimals.org/en_US/mypage?type=farm-type">
+          <img
+            src="https://render.gitanimals.org/farms/rhkrskdud?v=1"
+            width="100%"
+          />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.gitanimals.org/en_US/guild/834826977655465879">
+          <img
+            src="https://render.gitanimals.org/guilds/834826977655465879/draw?v=1"
+            width="100%"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
