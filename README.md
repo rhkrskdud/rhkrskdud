@@ -8,6 +8,16 @@
 
 ---
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rhkrskdud&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/rhkrskdud"
+    width="600"
+    height="300"
+  />
+</a>
+
+---
+
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
