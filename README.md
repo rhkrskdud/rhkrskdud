@@ -84,4 +84,5 @@
 | **Abang-All - BadUSB Defense Solution** | 저수준 키보드 후킹과 입력 속도·명령어·URL 패턴 기반 행위 분석을 통해 BadUSB 공격을 실시간 탐지하고 CVSS 3.1 기반 위험도를 제공하는 Windows 엔드포인트 보안 솔루션 | [🌐 서비스 바로가기](https://abang-all.vercel.app/) |
 | **GnawLab - Offensive Cloud Security Lab** | Terraform으로 실제 AWS 취약 환경을 구축하고 IAM 권한 상승, 메타데이터 탈취, S3 설정 오류 등 실전형 공격 시나리오를 학습하는 오픈소스 클라우드 보안 훈련장 | [🔗 GitHub 바로가기](https://github.com/Beaver-Dam-Community/GnawLab) |
 | **npm 악성 패키지 식별 모델** | npm 패키지의 정적 특징을 머신러닝으로 분석하여 악성 패키지를 식별하는 AI 기반 보안 프로젝트 | [🔗 GitHub 바로가기](https://github.com/rhkrskdud/ai_programming_project) |
+| **AI Battlegrounds: Wizard of Prompts** | 프롬프트를 작성해 캐릭터와 카드를 만들어 PvE, PvP로 경쟁하는 Unity 게임 프로젝트 | [🌐 서비스 바로가기](https://aibattlegrounds.hspace.io/) |
 
